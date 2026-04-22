@@ -50,13 +50,6 @@ Motivation-Meme-Project/
 
 ---
 
-## 📸 Screenshots
-
-> 📌 Add screenshots here
-
-
-
----
 
 ## ⚙️ How to Run
 
