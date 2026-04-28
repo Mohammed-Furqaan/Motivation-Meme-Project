@@ -80,5 +80,4 @@ Mohammed Furqaan
 Final Year Computer Science Engineer
 
 ⭐ Support
-
 If you like this project, give it a ⭐ on GitHub!
